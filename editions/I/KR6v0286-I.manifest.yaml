@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6v0286/I/v1
+canonical_location: https://kanripo.org/bkk/KR6v0286/I/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 韓永義等造像記
+  identifiers:
+    krp: KR6v0286
+    cbeta: I01n0085
+    cbeta_old_id: I01n0085
+    authorityid: CA0008220
+    json_key: I0085
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/I/I01/I01n0085.xml
+    old_id: I01n0085
+  edition:
+    short: I
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0286_000-I.yaml, hash: 'sha256:9a9dc4f012e3969f819bd21746ef1c5f49794477b73130ae4becd404fcccebff'}
+  - {seq: 1, filename: KR6v0286_001-I.yaml, hash: 'sha256:0d0712e1f1d38b5a6e511352c66199f4f24e333461cb3a34bafdf9d9bbed4273'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0286_000-I.markers.yaml, hash: 'sha256:8943b1399a2c674a666f63154568891c8797296613886eb4f95246f37f85c91b'}
+  - {seq: 1, role: markers, filename: assets/KR6v0286_001-I.markers.yaml, hash: 'sha256:bb8c4b023bb940ff3d4401ad33ed8a4cb5fe6a4a3ffee2418e17b5af4dec1a3e'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0286_I_001-juan-start
+    span:
+    - body
+    - 0
+    - 587
+  label: 韓永義等造像記
+  type: juan
+  level: 1
+hash: sha256:07b1470f74fe0a40435696c6bf24e9f1e73f62df29755a51d3e640febc732e40

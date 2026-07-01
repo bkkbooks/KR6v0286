@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6v0286/i/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 韓永義等造像記
+  edition:
+    short: i
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/I/I01/I01n0085.xml
+    old_id: I01n0085
+hash: sha256:9a9dc4f012e3969f819bd21746ef1c5f49794477b73130ae4becd404fcccebff
