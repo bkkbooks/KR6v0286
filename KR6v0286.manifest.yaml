@@ -25,9 +25,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6v0286_000.yaml, hash: 'sha256:9a9dc4f012e3969f819bd21746ef1c5f49794477b73130ae4becd404fcccebff'}
-  - {seq: 1, filename: KR6v0286_001.yaml, hash: 'sha256:6407360d30afb4328ba84c3a733acd511385fff30d915b1e91c00e8e112dcd48'}
+  - {seq: 1, filename: KR6v0286_001.yaml, hash: 'sha256:0d0712e1f1d38b5a6e511352c66199f4f24e333461cb3a34bafdf9d9bbed4273'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6v0286_001.markers.yaml, hash: 'sha256:26486c3d7f15edebd4c1a9ef2730b3ab3cb9669fb8257587b6bece29ce27acb0'}
+  - {seq: 0, role: markers, filename: assets/KR6v0286_000.markers.yaml, hash: 'sha256:63a812fb229bbb19ce35dcd7caafd6a4874a27f5bebee4bcd41a1281390fb834'}
+  - {seq: 1, role: markers, filename: assets/KR6v0286_001.markers.yaml, hash: 'sha256:df9be2fd4a7b1fc88521c5d8abd0ed99a09a6c15671fc66490681100f4f18b54'}
 table_of_contents:
 - ref:
     seq: 1
@@ -39,7 +40,4 @@ table_of_contents:
   label: 韓永義等造像記
   type: juan
   level: 1
-hash: sha256:76222649f1b090ade76d41436131f770f5aab74307165fb935258a56fc288a95
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:fbf977f95e4bc2499b49dd4dea439762e9d0c4bf7db8780375769fb7ed396f25
