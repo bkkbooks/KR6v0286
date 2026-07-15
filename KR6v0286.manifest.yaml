@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6v0286/v1
 canonical_location: https://kanripo.org/bkk/KR6v0286/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 韓永義等造像記
   identifiers:
@@ -25,10 +25,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6v0286_000.yaml, hash: 'sha256:9a9dc4f012e3969f819bd21746ef1c5f49794477b73130ae4becd404fcccebff'}
-  - {seq: 1, filename: KR6v0286_001.yaml, hash: 'sha256:0d0712e1f1d38b5a6e511352c66199f4f24e333461cb3a34bafdf9d9bbed4273'}
+  - {seq: 1, filename: KR6v0286_001.yaml, hash: 'sha256:50c13c926309391cd18f209b29d57d984904bff1630a20400362d1316a84eea1'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6v0286_000.markers.yaml, hash: 'sha256:63a812fb229bbb19ce35dcd7caafd6a4874a27f5bebee4bcd41a1281390fb834'}
-  - {seq: 1, role: markers, filename: assets/KR6v0286_001.markers.yaml, hash: 'sha256:df9be2fd4a7b1fc88521c5d8abd0ed99a09a6c15671fc66490681100f4f18b54'}
+  - {seq: 1, role: markers, filename: assets/KR6v0286_001.markers.yaml, hash: 'sha256:671ec64aa9a2829d755028c74d2aebbc801e3e7c444692e2086f54a2226faf05'}
 table_of_contents:
 - ref:
     seq: 1
@@ -40,4 +40,7 @@ table_of_contents:
   label: 韓永義等造像記
   type: juan
   level: 1
-hash: sha256:fbf977f95e4bc2499b49dd4dea439762e9d0c4bf7db8780375769fb7ed396f25
+hash: sha256:25295e31a25a3e4ee5c386c9f60707258413c31ba31dbece5f938f8001054e15
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
